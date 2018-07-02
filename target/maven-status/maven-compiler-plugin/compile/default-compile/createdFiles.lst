@@ -1,0 +1,5 @@
+com\fuqinqin\code\config\HelloServiceProperties.class
+com\fuqinqin\code\configuration\HelloServiceAutoConfiguration.class
+com\fuqinqin\code\App.class
+com\fuqinqin\code\service\HelloServiceImpl.class
+com\fuqinqin\code\service\HelloService.class
