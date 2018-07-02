@@ -5,27 +5,42 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fuqinqin.code</groupId>
+<<<<<<< HEAD
   <artifactId>spring-boot-starter-hello</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>spring-boot-starter-hello</name>
+=======
+  <artifactId>spring.boot.starter.hello</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>spring.boot.starter.hello</name>
+>>>>>>> 8badd3328915721cfb84e64685dec27e9d8c09a2
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+<<<<<<< HEAD
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+=======
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+>>>>>>> 8badd3328915721cfb84e64685dec27e9d8c09a2
   </properties>
 
   <dependencies>
     <dependency>
+<<<<<<< HEAD
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-autoconfigure</artifactId>
       <version>1.5.14.RELEASE</version>
     </dependency>
 
     <dependency>
+=======
+>>>>>>> 8badd3328915721cfb84e64685dec27e9d8c09a2
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
